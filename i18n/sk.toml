@@ -1,0 +1,44 @@
+[CONTACT_ADDRESS]
+  other = "Adresa"
+[CONTACT_EMAIL]
+  other = "Email"
+[CONTACT_FORM_FIELD_EMAIL]
+  other = "Email"
+[CONTACT_FORM_FIELD_MESSAGE]
+  other = "Správa"
+[CONTACT_FORM_FIELD_NAME]
+  other = "Meno"
+[CONTACT_FORM_SUBMIT_SEND_MESSAGE]
+  other = "Odošli správu"
+[CONTACT_PHONE]
+  other = "Telefón"
+[CONTACT_SOCIAL]
+  other = "Siete"
+[COPYRIGHT_MESSAGE_0]
+  other = "[svadba@kuco.sk](mailto://svadba@kuco.sk)"
+[COPYRIGHT_MESSAGE_1]
+  other = "[Tomáš Repík](https://repik.sk)"
+[COPYRIGHT_MESSAGE_2]
+  other = "Design: [Curtis Timson](https://curtistimson.co.uk)"
+[INTRO_CONTINUE]
+  other = "Pokračovať"
+[NAV_CONTACT]
+  other = "Kontakt"
+[NAV_WEDDING]
+  other = "Svadba"
+[NAV_CEREMONY]
+  other = "Obrad"
+[NAV_FEAST]
+  other = "Hostina"
+[NAV_PARTY]
+  other = "Party"
+[NAV_GIFTS]
+  other = "Svadobné dary"
+[PAGINATION_NEXT]
+  other = "Ďalšia"
+[PAGINATION_PREVIOUS]
+  other = "Predchádzajúca"
+[PAGINATION_FIRST]
+  other = "Prvá"
+[PAGINATION_LAST]
+  other = "Posledná"
