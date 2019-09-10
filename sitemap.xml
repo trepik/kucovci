@@ -3,28 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://repik.sk/kucovci/hostina/</loc>
+    <loc>https://svadba.kuco.sk/svadba/</loc>
   </url>
   
   <url>
-    <loc>https://repik.sk/kucovci/obrad/</loc>
+    <loc>https://svadba.kuco.sk/hostina/</loc>
   </url>
   
   <url>
-    <loc>https://repik.sk/kucovci/party/</loc>
+    <loc>https://svadba.kuco.sk/obrad/</loc>
   </url>
   
   <url>
-    <loc>https://repik.sk/kucovci/</loc>
-    <priority>0</priority>
+    <loc>https://svadba.kuco.sk/party/</loc>
   </url>
   
   <url>
-    <loc>https://repik.sk/kucovci/svadba/</loc>
+    <loc>https://svadba.kuco.sk/</loc>
   </url>
   
   <url>
-    <loc>https://repik.sk/kucovci/dary/</loc>
+    <loc>https://svadba.kuco.sk/dary/</loc>
   </url>
   
 </urlset>
