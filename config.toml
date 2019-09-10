@@ -1,6 +1,6 @@
 languageCode = "sk"
 title = "Svadba"
-baseURL = "https://svadba.kuco.sk/"
+baseURL = "https://repik.sk/kucovci/"
 theme = "hugo-theme-massively"
 googleanalytics = ""
 disqusShortname = "kucovci"
