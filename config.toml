@@ -1,9 +1,9 @@
 languageCode = "sk"
 title = "Svadba"
-baseURL = "https://repik.sk/kucovci/"
+baseURL = "https://svadba.kuco.sk/"
 theme = "hugo-theme-massively"
 googleanalytics = ""
-disqusShortname = ""
+disqusShortname = "kucovci"
 disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 defaultContentLanguage = "sk"
 
