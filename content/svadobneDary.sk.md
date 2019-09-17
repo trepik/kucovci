@@ -1,8 +1,6 @@
 +++
 title = 'Svadobné dary'
 slug = 'dary'
-#date = "2019-10-12T22:00:00"
-disableComments = true
 +++
 Drahí hostia, ak sa rozhodnete spraviť nám radosť svadobným darom tu nájdete pár tipov a rád ako postupovať a možno aj konkrétne návrhy.
 
@@ -23,4 +21,6 @@ Nižšie uvádzame zoznam inšpirácií a darov, ktoré by nás potešili. V pr�
 * Poháre na červené víno
 * Bezodpadová ekologická domácnosť
 * Spoločenská hra
+* Kávovar Chemex na 3 šálky 
+* [Hrnčeky a šálky z LK/minilab](https://www.lkminilab.com/deliciously)
 
